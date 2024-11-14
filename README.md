@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo!
 
- Editanto o código diretamente do site. 
+ Editando o código diretamente do site. 
